@@ -3,7 +3,6 @@ import type { Integrante } from '../types'
 import fabricioHaine from '../assets/fabricio-torres-haine.jpeg'
 import guilhermeAlves from '../assets/guilherme.jpg'
 import leonardoNeto from '../assets/leonardo-neto.jpg'
-import andreLuiz from '../assets/andee.jpg'
 import { btnPrimario, container, divisor, labelTag, pageHero, secao, textoGradiente } from '../styles/ui'
 
 const integrantes: Integrante[] = [
@@ -140,3 +139,4 @@ function Integrantes() {
 }
 
 export default Integrantes
+
